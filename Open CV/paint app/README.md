@@ -1,6 +1,6 @@
 # PAINT APP
 
-This is a simple a way too simple paint app,you can draw figures in a rectangular manner by dragging the LMB and erase by RMB, below is the image of the app,
+This is a simple a way too simple paint app,you can draw figures in a rectangular manner by dragging the LMB and erase by RMB and for closing the app press ESC, below is the image of the app,
 
 <img src = "https://github.com/thakur-yogesh/python/blob/master/Open%20CV/paint%20app/paint.png"></img>
 
