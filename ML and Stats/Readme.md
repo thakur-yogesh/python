@@ -12,7 +12,6 @@ To run the code, you need to have Python installed on your system. The code is c
 4. Then run the code in jupyter notebook (that should also be installed on your machine :)
 
 
-The game window will open, and you can start playing the 2048 game using the arrow keys.
 
 
 
