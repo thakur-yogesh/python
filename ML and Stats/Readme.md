@@ -7,7 +7,7 @@ Gradient Descent can find the optimal values for the parameters in this case the
 To run the code, you need to have Python installed on your system. The code is compatible with Python 3.x.
 
 1. Clone this repository to your local machine.
-2. Install sympy library using  `pip install sympy` that is the only dependency.
+2. Install sympy library using  `pip install sympy` 
 3. Install matplotlip also by `pip install matplotlib`
 4. Then run the code in jupyter notebook (that should also be installed on your machine :)
 
