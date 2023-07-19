@@ -1,6 +1,6 @@
 # Gradient Descent
 
-This is a very easy to understand and yet eligent implementation of Gradient Descent, which demonstrates how fast
+This is a very easy to understand and yet eligant implementation of Gradient Descent, which demonstrates how fast
 Gradient Descent can find the optimal values for the parameters in this case the intercept
 
 
